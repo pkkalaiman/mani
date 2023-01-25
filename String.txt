@@ -1,0 +1,36 @@
+
+                                                   
+call carbadge collection
+class AS bean cretated with two OBJECT
+1 - Litrally
+2 - BY using NEW key word
+
+Creating String Object Using String Littrals***
+
+Creating String Object Using NEW key words***
+
+
+
+When you using new key words he is Store in HEAP
+
+when you using LITRALLYS he is Store in SCP
+
+String Object behaviear as IMMUTABLE in Nature***
+
+== equal Check the compire memory address**
+
+one letter changing in value is always getting in result =FALSE*****
+both are same letters in getting result in ==TRUE***
+
+
+
+= equal a as been check the compire value of a OBJECT*****
+
+
+Heap
+
+SCP = String Constant Pool
+
+current line information it is also STORE in= local variyable , refrence variyable
+
+
